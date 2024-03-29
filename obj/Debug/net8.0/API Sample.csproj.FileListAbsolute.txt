@@ -1,0 +1,33 @@
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\appsettings.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\API Sample.exe
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\API Sample.deps.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\API Sample.runtimeconfig.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\API Sample.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\API Sample.pdb
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.csproj.AssemblyReference.cache
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.AssemblyInfoInputs.cache
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.AssemblyInfo.cs
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.csproj.CoreCompileInputs.cache
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets\msbuild.API Sample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets\msbuild.build.API Sample.props
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Sample.props
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Sample.props
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\scopedcss\bundle\API Sample.styles.css
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.csproj.Up2Date
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\refint\API Sample.dll
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.pdb
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\API Sample.genruntimeconfig.cache
+C:\Users\nengl\Documents\VS Code\Level2\API Sample\obj\Debug\net8.0\ref\API Sample.dll
